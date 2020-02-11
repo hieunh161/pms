@@ -37,3 +37,9 @@ import Element from 'element-ui'
 
 Vue.use(Element)
 ```
+
+## Setup [normalize.css](https://necolas.github.io/normalize.css/)
+
+```
+pnpm install normalize.css
+```
