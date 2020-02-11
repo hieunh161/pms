@@ -22,3 +22,18 @@ pnpm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Setup [elementui.io](https://element.eleme.io/#/en-US)
+
+```
+pnpm install element-ui -S
+```
+
+Quick start 
+
+```
+import Vue from 'vue'
+import Element from 'element-ui'
+
+Vue.use(Element)
+```
