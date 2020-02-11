@@ -43,3 +43,12 @@ Vue.use(Element)
 ```
 pnpm install normalize.css
 ```
+
+## Setup [firebase to view](https://garywoodfine.com/how-to-install-firebase-with-vue-js/)
+
+```
+pnpm install firebase
+```
+
+## [firebase deploy url](https://harry-267308.firebaseapp.com)
+
